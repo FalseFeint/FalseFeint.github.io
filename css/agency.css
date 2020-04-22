@@ -212,8 +212,8 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   font-family: 'Roboto', sans-serif;
-    font-weight: 800;
-    padding-bottom: 25px;
+  font-weight: 800;
+  padding-bottom: 25px;
 }
 
 @media (min-width: 768px) {
