@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 414.02 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0076f7;
+      }
+
+      .cls-2 {
+        fill: #0041f7;
+      }
+
+      .cls-3 {
+        fill: #008afc;
+      }
+
+      .cls-4 {
+        font-size: 23.38px;
+        fill: #fff;
+        font-family: MyriadPro-Bold, Myriad Pro;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.08em;
+      }
+    </style>
+  </defs>
+  <title>Asset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <polygon class="cls-1" points="329.73 52 414.02 52 400.79 36.01 414.02 20.03 329.73 20.03 329.73 52"/>
+          <polygon class="cls-2" points="379.28 41.24 329.73 52 329.65 30.14 379.28 41.24"/>
+          <polygon class="cls-1" points="84.29 52 0 52 13.24 36.01 0 20.03 84.29 20.03 84.29 52"/>
+          <polygon class="cls-2" points="34.74 41.24 84.29 52 84.37 30.14 34.74 41.24"/>
+          <rect class="cls-3" x="34.66" width="344.53" height="41.21"/>
+        </g>
+        <text class="cls-4" transform="translate(116.12 28.29)"><tspan class="cls-5">P</tspan><tspan class="cls-6" x="12.18" y="0">A</tspan><tspan x="25.58" y="0">TENT PENDING</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
